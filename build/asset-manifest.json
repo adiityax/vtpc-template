@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vtpc-template/static/css/main.ccf18709.chunk.css",
+    "main.js": "/vtpc-template/static/js/main.5d2b7557.chunk.js",
+    "main.js.map": "/vtpc-template/static/js/main.5d2b7557.chunk.js.map",
+    "runtime-main.js": "/vtpc-template/static/js/runtime-main.8fc586ca.js",
+    "runtime-main.js.map": "/vtpc-template/static/js/runtime-main.8fc586ca.js.map",
+    "static/js/2.95c3208b.chunk.js": "/vtpc-template/static/js/2.95c3208b.chunk.js",
+    "static/js/2.95c3208b.chunk.js.map": "/vtpc-template/static/js/2.95c3208b.chunk.js.map",
+    "static/js/3.49dd872e.chunk.js": "/vtpc-template/static/js/3.49dd872e.chunk.js",
+    "static/js/3.49dd872e.chunk.js.map": "/vtpc-template/static/js/3.49dd872e.chunk.js.map",
+    "index.html": "/vtpc-template/index.html",
+    "static/css/main.ccf18709.chunk.css.map": "/vtpc-template/static/css/main.ccf18709.chunk.css.map",
+    "static/js/2.95c3208b.chunk.js.LICENSE.txt": "/vtpc-template/static/js/2.95c3208b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fc586ca.js",
+    "static/js/2.95c3208b.chunk.js",
+    "static/css/main.ccf18709.chunk.css",
+    "static/js/main.5d2b7557.chunk.js"
+  ]
+}
